@@ -9,7 +9,7 @@ A full relational database system for a hospital/clinic, modeling patients, doct
 
 ##  Why This Project
 
-Most SQL portfolio projects query a pre-built sample database (Chinook, Northwind, etc.). This one is different: **I designed the schema myself** — 10 interconnected tables with proper relationships, constraints, and referential integrity rules then built analytical queries on top that mirror what a real hospital operations dashboard would need: daily revenue, doctor workload, medication inventory alerts, and data-quality health checks.
+Most SQL portfolio projects query a pre-built sample database (Chinook, Northwind, etc.). This one is different: **I designed the schema myself**  10 interconnected tables with proper relationships, constraints, and referential integrity rules then built analytical queries on top that mirror what a real hospital operations dashboard would need: daily revenue, doctor workload, medication inventory alerts, and data-quality health checks.
 
 ---
 
