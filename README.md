@@ -71,6 +71,3 @@ Built as a set of report-style query blocks, each mimicking a real dashboard pan
 
 ---
 
-## 🔗 Connect
-
-[LinkedIn](https://www.linkedin.com/in/nashrah-khan-82056b332)
